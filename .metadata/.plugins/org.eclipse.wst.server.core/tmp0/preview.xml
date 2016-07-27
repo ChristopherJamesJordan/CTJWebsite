@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<server port="8080">
+  <module context="CTJWebsite" name="CTJWebsite" path="/Users/jordach/Documents/GitHub/CTJWebsite/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/CTJWebsite" type="j2ee"/>
+</server>
